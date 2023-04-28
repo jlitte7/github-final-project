@@ -5,7 +5,7 @@
    
    # Author: Upkar Lidder (IBM)
    
-   # Additional Authors: John Litten
+   # Additional Authors: Jay Litten
    
    # Input:
    # p, principal amount
